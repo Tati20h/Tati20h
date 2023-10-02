@@ -1,6 +1,6 @@
 ## 🧿 ¡Hola, comunidad de desarrolladores y amantes del código!👋
 ### 💫¡Saludos desde Bogotá, Colombia 🇨🇴 👋:
-Desarrolladora Front-end 🚀 | HTML | CSS | JavaScript | GitHub | Proyectos Colaborativos y Git | Frameworks Vanilla JS | Figma | Firebase Integradora | Bases de Datos y Autenticación | ¡Velocidad y Creatividad en Código! | Siempre Buscando Aprender y Crecer 🌱 | Desde Colombia con Sabor Gastronómico 🍽️ | Rompiendo Barreras sin Temor 💪🇨🇴<br> ![image](https://github.com/Tati20h/Tati20h/blob/main/img/lo.png)
+Desarrolladora Front-end 🚀 | JavaScript| React | HTML | CSS | | GitHub | Proyectos Colaborativos y Git | Frameworks Vanilla JS | Figma | Firebase Integradora | Bases de Datos y Autenticación | ¡Velocidad y Creatividad en Código! | Siempre Buscando Aprender y Crecer 🌱 | Desde Colombia con Sabor Gastronómico 🍽️ | Rompiendo Barreras sin Temor 💪🇨🇴<br> ![image](https://github.com/Tati20h/Tati20h/blob/main/img/lo.png)
 
 <div align="center"> 
   
