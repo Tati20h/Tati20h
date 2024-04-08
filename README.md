@@ -1,11 +1,15 @@
+
+<div> 
 <div align="start">
   
 ## 🧿 ¡Hola, comunidad de desarrolladores y amantes del código!👋 <br> 
+</div>
+<div align="end">
 <img src="https://github.com/Tati20h/Tati20h/blob/main/img/perfil.png?raw=true" alt="Descripción de la imagen" width="300" height="300">
-
+</div>
 </div>
 
-<div align="end">
+
 
 
  </div>
