@@ -1,5 +1,7 @@
+<div align="center">
+  
 ## 🧿 ¡Hola, comunidad de desarrolladores y amantes del código!👋 
-<div align="end">
+
   ![image](https://github.com/Tati20h/Tati20h/blob/main/img/perfil.png?raw=true)
  </div>
 ### 💫¡Saludos desde cualquier rincon de mundo! 🌏 👋:
