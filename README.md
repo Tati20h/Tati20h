@@ -2,27 +2,9 @@
   <a href="https://lucy-portafolio.vercel.app/about"><img src="https://github.com/Tati20h/Tati20h/blob/main/img/perfil.png?raw=true" width="300" height="300"> </a>
 </p>
 
-<h1 align="center">Hi, I'm <a href="https://www.edisonlee55.com">Edison Lee</a>!</h1>
-<h1 align="center">Welcome to my GitHub profile~ OwO</h1>
+<h1 align="center">Hi, I'm <a href="https://lucy-portafolio.vercel.app/about">Lucy Hernández Avendaño</a>!</h1>
+<h1 align="center">🧿Welcome to my GitHub profile👋 </h1>
 
-
-
-
-<div> 
-<div align="start">
-  
-## 🧿 ¡Hola, comunidad de desarrolladores y amantes del código!👋 <br> 
-</div>
-<div align="end">
-
-</div>
-</div>
-
-
-
-
- </div>
-### 💫¡Saludos desde cualquier rincon de mundo! 🌏 👋:
 Desarrolladora Front-end 🚀 | JavaScript| React | HTML | CSS | | GitHub | Proyectos Colaborativos y Git | Frameworks Vanilla JS | Figma | Firebase Integradora | Bases de Datos y Autenticación | ¡Velocidad y Creatividad en Código! | Siempre Buscando Aprender y Crecer 🌱 | Desde Colombia con Sabor Gastronómico 🍽️ | Rompiendo Barreras sin Temor 💪🇨🇴<br> 
 
 ![image](https://github.com/Tati20h/Tati20h/blob/main/img/lo.png)
