@@ -1,9 +1,12 @@
-<div align="center">
+<div align="start">
   
 ## 🧿 ¡Hola, comunidad de desarrolladores y amantes del código!👋 
-<img src="https://github.com/Tati20h/Tati20h/blob/main/img/perfil.png?raw=true" alt="Descripción de la imagen" width="200" height="200">
 
-  ![image](https://github.com/Tati20h/Tati20h/blob/main/img/perfil.png?raw=true width=300px height=200px)
+</div>
+
+<div align="end">
+<img src="https://github.com/Tati20h/Tati20h/blob/main/img/perfil.png?raw=true" alt="Descripción de la imagen" width="300" height="200">
+
  </div>
 ### 💫¡Saludos desde cualquier rincon de mundo! 🌏 👋:
 Desarrolladora Front-end 🚀 | JavaScript| React | HTML | CSS | | GitHub | Proyectos Colaborativos y Git | Frameworks Vanilla JS | Figma | Firebase Integradora | Bases de Datos y Autenticación | ¡Velocidad y Creatividad en Código! | Siempre Buscando Aprender y Crecer 🌱 | Desde Colombia con Sabor Gastronómico 🍽️ | Rompiendo Barreras sin Temor 💪🇨🇴<br> 
