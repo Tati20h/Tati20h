@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://www.edisonlee55.com"><img src="kita-ikuyo-rap.webp" alt="Banner"></a>
+  <a href="https://lucy-portafolio.vercel.app/about"><img src="https://github.com/Tati20h/Tati20h/blob/main/img/perfil.png?raw=true" width="300" height="300"> </a>
 </p>
 
 <h1 align="center">Hi, I'm <a href="https://www.edisonlee55.com">Edison Lee</a>!</h1>
@@ -14,7 +14,7 @@
 ## 🧿 ¡Hola, comunidad de desarrolladores y amantes del código!👋 <br> 
 </div>
 <div align="end">
-<img src="https://github.com/Tati20h/Tati20h/blob/main/img/perfil.png?raw=true" alt="Descripción de la imagen" width="300" height="300">
+
 </div>
 </div>
 
