@@ -20,7 +20,7 @@ Previously I worked in agile teams performing manual testing, following the SCRU
 
 ![image](https://github.com/Tati20h/Tati20h/blob/main/img/lo.png)
 
-<br> <br> 
+<br> 
 <div align="center">
 <h2 >🌐 Socials:</h2> 
   
@@ -62,16 +62,16 @@ Previously I worked in agile teams performing manual testing, following the SCRU
   <h2 align="center">🏁Goals:</h2>
   <br>
  Continue to overcome challenges in the front-end world, staying abreast of the latest trends and techniques.
- <br>
+ <br><br>
 Contribute to open source projects and share knowledge with the community.<br>Inspire others to explore new technologies and develop their passion for programming, proving that limits only exist in the mind 🧠.
- <br>
+ <br><br>
 Connect with me and together let's explore the infinite possibilities of front-end development.>
- <br>
+ <br><br>
 The future is our canvas! 🎨<br>
 
 <div align="center">
 
-<h4 align="center"> 🚀 "The best recipe for success is a passion for innovation and the courage to embrace the unknown." 🌟 </h4>
+<h3 align="center"> 🚀 "The best recipe for success is a passion for innovation and the courage to embrace the unknown." 🌟 </h3>
   <br>
 
 ## 📊 GitHub Stats:
