@@ -20,11 +20,14 @@ Previously I worked in agile teams performing manual testing, following the SCRU
 <div align="center">
 <h2 >🌐 Socials:</h2> 
   
-  <a href="https://www.linkedin.com/in/tatiana-hernandez29/"><img src="https://img.icons8.com/color/70/000000/linkedin.png" alt="linkedin"/></a> <a href="https://lucy-portafolio.vercel.app/about"> <img src="https://github.com/Tati20h/Tati20h/blob/main/img/logo3.png?raw=true'" width="90" height="90"> </a>
+<a href="https://www.linkedin.com/in/tatiana-hernandez29/"><img src="https://img.icons8.com/color/70/000000/linkedin.png" alt="linkedin"/</a> <a href="https://lucy-portafolio.vercel.app/about"> <img src="https://github.com/Tati20h/Tati20h/blob/main/img/logo3.png?raw=true'" width="90" height="90"> </a>
+   
    <br> 
+    <br> 
+   
   [![Gmail Badge](https://img.shields.io/badge/-ltatianahernandez@sanmateo.edu.co-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ltatianahernandez@sanmateo.edu.co)](mailto:ltatianahernandez@sanmateo.edu.co)
  </div>
- <br> 
+ 
 
 <div align="center"> 
   
