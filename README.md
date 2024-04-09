@@ -23,10 +23,11 @@ Previously I worked in agile teams performing manual testing, following the SCRU
    
    <br> 
    <br> 
+   
   [![Gmail Badge](https://img.shields.io/badge/-ltatianahernandez@sanmateo.edu.co-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ltatianahernandez@sanmateo.edu.co)](mailto:ltatianahernandez@sanmateo.edu.co)
  </div>
  
-
+<br> 
 <div align="center"> 
   
 <h2> 🚩Featured projects: </h2>
