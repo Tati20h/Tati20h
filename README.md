@@ -1,8 +1,8 @@
 <div align="center">
 <h1 >Hi, I'm <a href="https://lucy-portafolio.vercel.app/about">Lucy Hernández Avendaño 👋 </a>!</h1>
-<p align="center">
-  <a href="https://lucy-portafolio.vercel.app/about"><img src="https://github.com/Tati20h/Tati20h/blob/main/img/perfil.png?raw=true" width="250" height="250"> </a>
-</p>
+  
+![image](https://github.com/Tati20h/Tati20h/blob/main/img/lo.png)
+
 <h2 align="center">🧿 Welcome to my GitHub profile</h2>
 </div>
 <br>
@@ -16,10 +16,6 @@ Previously I worked in agile teams performing manual testing, following the SCRU
   
 <br>Greetings from Bogotá, Colombia Breaking barriers without fear 💪🇨🇴!
 <br> 
-<br> 
-
-![image](https://github.com/Tati20h/Tati20h/blob/main/img/lo.png)
-
 <br> 
 <div align="center">
 <h2 >🌐 Socials:</h2> 
