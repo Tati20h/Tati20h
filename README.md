@@ -4,25 +4,31 @@
   <a href="https://lucy-portafolio.vercel.app/about"><img src="https://github.com/Tati20h/Tati20h/blob/main/img/perfil.png?raw=true" width="250" height="250"> </a>
 </p>
 <h2 align="center">🧿 Welcome to my GitHub profile</h2>
-</div>
+
 <br>
 <h3>💫 About Me: </h3> 
 
 <p align="justify">
 Gastronomy professional venturing into front-end web development, I gained a solid foundation through the Laboratoria Bootcamp. and constant and strong self-taught training. Passionate about fusing creativity and participating in new and open source projects to create delightful user experiences. 🚀 <br> 
+  
+Previously I worked in agile teams performing manual testing, following the SCRUM methodology and using tools such as Jira for project management, GitHub and Postman. I am an expert in programming with vanilla JavaScript, React, HTML and CSS.
   </p>
   
-  <h3 aling="center">
-  Previously I worked in agile teams performing manual testing, following the SCRUM methodology and using tools such as Jira for project management, GitHub and Postman. I am an expert in programming with vanilla JavaScript, React, HTML and CSS.<br> 
-</h3>
-
 <br>Greetings from Bogotá, Colombia Breaking barriers without fear 💪🇨🇴!
 <br> 
 <br> 
 
+<h2 >🌐 Socials:</h2> 
+  
+<a href="https://www.linkedin.com/in/tatiana-hernandez29/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
+  
+<a href="https://lucy-portafolio.vercel.app/about"> <img src="https://github.com/Tati20h/Tati20h/blob/main/img/logo3.png?raw=true'" width="80" height="80"> </a>
+  
+  [![Gmail Badge](https://img.shields.io/badge/-ltatianahernandez@sanmateo.edu.co-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ltatianahernandez@sanmateo.edu.co)](mailto:ltatianahernandez@sanmateo.edu.co)
+  <br> 
 ![image](https://github.com/Tati20h/Tati20h/blob/main/img/lo.png)
 <br> 
-
+</div>
 <div align="center"> 
   
 <h2> 🚩Featured projects: </h2>
@@ -56,13 +62,7 @@ Gastronomy professional venturing into front-end web development, I gained a sol
     Continue to overcome challenges in the front-end world, staying abreast of the latest trends and techniques.<br>Contribute to open source projects and share knowledge with the community.<br>Inspire others to explore new technologies and develop their passion for programming, proving that limits only exist in the mind 🧠.<br>Connect with me and together let's explore the infinite possibilities of front-end development.<br> The future is our canvas! 🎨<br></p>
 </div>    
 <div align="center">
-<h2 >🌐 Socials:</h2> 
-  
-[<img src='https://www.linkedin.com/in/tatiana-hernandez29/' alt='LinkedIn' width='50' style='width:50px; margin-right: 10px;'/>]
-  
-<img href='https://lucy-portafolio.vercel.app/about' src='https://github.com/Tati20h/Tati20h/blob/main/img/logo3.png?raw=true' alt='Lucy-Portaflio' width='50' style='width:50px; margin-right: 10px;'/>
-  
-[![Gmail Badge](https://img.shields.io/badge/-ltatianahernandez@sanmateo.edu.co-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ltatianahernandez@sanmateo.edu.co)](mailto:ltatianahernandez@sanmateo.edu.co)
+
 
 
 <h2 align="center"> 🚀 "The best recipe for success is a passion for innovation and the courage to embrace the unknown." 🌟 </h2>
