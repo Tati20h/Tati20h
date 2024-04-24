@@ -19,7 +19,7 @@ Previously I worked in agile teams performing manual testing, following the SCRU
 <br> 
 <div align="center">
 <h2 >🌐 Socials:</h2>   
-<a href="https://www.linkedin.com/in/tatiana-hernandez29/"><img src="https://img.icons8.com/color/70/000000/linkedin.png" alt="linkedin"/</a><a href="https://lucy-portafolio.vercel.app/about"> <img src="https://github.com/Tati20h/08-portafolio/blob/main/src/assets/img/logo.png?raw=true" width="80" height="80"> </a>
+<a href="https://www.linkedin.com/in/tatiana-hernandez29/"><img src="https://img.icons8.com/color/70/000000/linkedin.png" alt="linkedin"/</a><a href="https://lucy-portafolio.vercel.app/about"> <img src="https://github.com/Tati20h/08-portafolio/blob/main/src/assets/img/logo.png?raw=true" width="70" height="70"> </a>
    
    <br> 
    <br> 
